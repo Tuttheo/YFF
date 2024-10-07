@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: blue;
+    -webkit-text-fill-color: aliceblue;
+    cursor: pointer;
+
+}
+
+
+
+.gameSenseBtn{
+    font-size: 50px;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    position: absolute;
+    right: 900px;
+    top: 322px;
+}
+
+.mechanicsBtn{
+    font-size: 50px;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    position: absolute;
+    right: 550px;
+    top: 322px;
+}
+
+.freestyleBtn{
+    right: 200px;
+    font-size: 50px;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 322px;
+
+
+}
